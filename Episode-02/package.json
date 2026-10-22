@@ -1,0 +1,28 @@
+{
+  "name": "episode-02",
+  "version": "1.0.0",
+  "description": "Starting React",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poojasingh2429/Namaste-React-pooja.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "pooja singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poojasingh2429/Namaste-React-pooja/issues"
+  },
+  "homepage": "https://github.com/poojasingh2429/Namaste-React-pooja#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
